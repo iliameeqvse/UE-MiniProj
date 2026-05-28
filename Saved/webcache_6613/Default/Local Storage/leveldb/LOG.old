@@ -1,3 +1,11 @@
-2026/05/27-17:25:37.625 254c Reusing MANIFEST D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/27-17:25:37.661 254c Recovering log #4
-2026/05/27-17:25:37.663 254c Reusing old log D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/27-22:12:53.522 139c Reusing MANIFEST D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/27-22:12:53.527 139c Recovering log #4
+2026/05/27-22:12:53.529 139c Reusing old log D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/27-22:48:35.554 1894 Level-0 table #7: started
+2026/05/27-22:48:35.685 1894 Level-0 table #7: 81997 bytes OK
+2026/05/27-22:48:35.966 1894 Delete type=0 #4
+2026/05/27-22:51:35.567 1894 Level-0 table #9: started
+2026/05/27-22:51:35.596 1894 Level-0 table #9: 70898 bytes OK
+2026/05/27-22:51:35.628 1894 Delete type=0 #6
+2026/05/27-23:48:50.186 1894 Level-0 table #11: started
+2026/05/27-23:48:50.234 1894 Level-0 table #11: 70734 bytes OK

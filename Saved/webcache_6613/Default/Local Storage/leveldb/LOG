@@ -1,3 +1,21 @@
-2026/05/27-21:43:10.364 574 Reusing MANIFEST D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/27-21:43:10.369 574 Recovering log #4
-2026/05/27-21:43:10.589 574 Reusing old log D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/05/28-18:10:10.020 1cd0 Reusing MANIFEST D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/28-18:10:10.034 1cd0 Recovering log #10
+2026/05/28-18:10:10.036 1cd0 Reusing old log D:\Miniproj\Saved\webcache_6613\Default\Local Storage\leveldb/000010.log 
+2026/05/28-18:10:10.037 1cd0 Delete type=0 #8
+2026/05/28-18:10:10.038 18d0 Compacting 4@0 + 0@1 files
+2026/05/28-18:10:10.134 18d0 Generated table #13@0: 7 keys, 25771 bytes
+2026/05/28-18:10:10.134 18d0 Compacted 4@0 + 0@1 files => 25771 bytes
+2026/05/28-18:10:10.159 18d0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/28-18:10:10.160 18d0 Delete type=2 #3
+2026/05/28-18:10:10.160 18d0 Delete type=2 #7
+2026/05/28-18:10:10.160 18d0 Delete type=2 #9
+2026/05/28-18:10:10.160 18d0 Delete type=2 #11
+2026/05/28-18:16:24.836 18d0 Level-0 table #15: started
+2026/05/28-18:16:24.908 18d0 Level-0 table #15: 75918 bytes OK
+2026/05/28-18:16:24.930 18d0 Delete type=0 #10
+2026/05/28-18:16:54.822 18d0 Level-0 table #17: started
+2026/05/28-18:16:54.859 18d0 Level-0 table #17: 72562 bytes OK
+2026/05/28-18:16:54.878 18d0 Delete type=0 #14
+2026/05/28-20:40:16.010 18d0 Level-0 table #19: started
+2026/05/28-20:40:16.059 18d0 Level-0 table #19: 71718 bytes OK
+2026/05/28-20:40:16.147 18d0 Delete type=0 #16
