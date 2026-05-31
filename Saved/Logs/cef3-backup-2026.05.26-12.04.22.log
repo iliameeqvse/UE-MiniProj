@@ -1,8 +1,0 @@
-[1588:3052:0526/141742.894:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1588:14364:0526/141742.938:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1588:3052:0526/141742.965:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[8040:6644:0526/141751.714:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9DE4484EE5551CFC6943C68387ACF09 will be ignored
-[7100:16112:0526/143910.902:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[1588:3052:0526/153710.844:ERROR:device_event_log_impl.cc(196)] [15:37:10.632] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[12204:11360:0526/154200.677:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-73EF59F7160E090937F04838AC22EE4F will be ignored
-[1588:3052:0526/160422.441:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
